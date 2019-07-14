@@ -1,0 +1,59 @@
+﻿@model IEnumerable<PI_OTDAV_Web.Models.PerceptionCategoryModels>
+<br /><br /><br />
+<div class="layer-ttl"><h4>La Liste<span class="text-primary"> Des </span>Categories</h4></div>
+ 
+        <button class="btn btn-danger btn-pill m-1"> @Html.ActionLink("Create Pdf", "CreatePdf", "PerceptionCategory")</button>
+<p>
+
+    <h3> Liste<span class="text-primary"> Des </span> Categories</h3>
+    
+</p>
+
+<div class="panel">
+
+
+    <table class="table table-striped">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.idPerceptionCategory)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NomCategory)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PSC)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SCT)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.detailsCategory)
+            </th>
+
+            <th></th>
+        </tr>
+        @foreach (var item in ViewBag.result)
+        {
+            <tr>
+                <td>
+                    @item.idPerceptionCategory
+                </td>
+                <td>
+                    @item.NomCategory
+                </td>
+                <td>
+                    @item.PSC
+                </td>
+                <td>
+                    @item.SCT
+                </td>
+                <td>
+                    @item.detailsCategory
+                </td>
+
+
+            </tr>
+        }
+
+    </table>
+</div>

@@ -1,0 +1,75 @@
+﻿@model IEnumerable< PI_OTDAV_Web.Models.QuestionVM>
+@{
+    ViewBag.Title = "Index";
+}
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<p>
+    Select from @Model.Count()
+    
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.questionId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.question)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.prop1)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.prop2)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.prop3)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.prop4)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.response)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.description)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.questionId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.question)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.prop1)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.prop2)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.prop3)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.prop4)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.response)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.description)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { item.questionId }) |
+            @Html.ActionLink("Details", "Details", new { item.questionId }) |
+            @Html.ActionLink("Delete", "Delete", new { item.questionId })
+        </td>
+    </tr>
+}
+
+</table>

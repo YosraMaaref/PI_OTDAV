@@ -1,0 +1,394 @@
+﻿@model IEnumerable<PI_OTDAV_Web.Models.paimentModel>
+
+@{
+    Layout = "~/Views/Shared/Template.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <script type="text/javascript"
+            src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.js"></script>
+    <br /><br />
+
+
+    <div class="row">
+
+        <div class="col-lg-8">
+            <div class="panel panel-default">
+                <div class="panel-heading">Paiment</div>
+                <!-- /.panel-heading -->
+                <div class="panel-body">
+                    <!-- Nav tabs -->
+                    <ul class="nav nav-pills">
+                        <li class="active">
+                            <a href="#home-pills" data-toggle="tab">Cotisation</a>
+                        </li>
+                        <li><a href="#profile-pills" data-toggle="tab">Declaration</a></li>
+                        <li><a href="#messages-pills" data-toggle="tab">Dépot</a></li>
+                        <li><a href="#stat" data-toggle="tab">Statistique</a></li>
+                    </ul>
+
+                    <!-- Tab panes -->
+                    <div class="tab-content">
+                        <div class="tab-pane fade in active" id="home-pills">
+                            <table class="table">
+                                <tr>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.Date)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.Price)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.Status)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.Title)
+                                    </th>
+                                    <th></th>
+                                </tr>
+
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Date)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Price)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Status)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Title)
+                                        </td>
+                                        <td>
+                                            <a onclick="showDetail(@item.ID,'@item.Date')">Details</a> 
+                                        </td>
+                                    </tr>
+                                }
+
+                            </table>
+                        </div>
+                        <div class="tab-pane fade in " id="profile-pills">
+                            <table class="table">
+                                <tr>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.Date)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.Price)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.Status)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.Title)
+                                    </th>
+                                    <th></th>
+                                </tr>
+
+                                @foreach (var item in (IEnumerable<PI_OTDAV_Web.Models.paimentModel>)ViewBag.listPaimentDeclaration)
+                                {
+                                    <tr>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Date)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Price)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Status)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Title)
+                                        </td>
+                                        <td>
+                                            <a onclick="showDetail(@item.ID,'@item.Date')">Details</a>
+                                        </td>
+                                    </tr>
+                                }
+
+                            </table>
+
+                        </div>
+                        <div class="tab-pane fade in " id="messages-pills">
+                            <table class="table">
+                                <tr>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.Date)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.Price)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.Status)
+                                    </th>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.Title)
+                                    </th>
+                                    <th></th>
+                                </tr>
+
+                                @foreach (var item in (IEnumerable<PI_OTDAV_Web.Models.paimentModel>)ViewBag.listPaimentDeposit)
+                                {
+                                    <tr>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Date)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Price)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Status)
+                                        </td>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.Title)
+                                        </td>
+                                        <td>
+                                            <a onclick="showDetail(@item.ID,'@item.Date')">Details</a>
+                                        </td>
+                                    </tr>
+                                }
+
+                            </table>
+
+                        </div>
+                        <div class="tab-pane fade in " id="stat">
+                            <canvas id="myChart" width="200" height="200"></canvas>
+                        </div>
+                    </div>
+                </div>
+                <!-- /.panel-body -->
+            </div>
+            <!-- /.panel -->
+        </div>
+
+        <div class="col-lg-4">
+            <div id="paiment">
+                <table class="table">
+                    <tbody>
+                        <tr>
+                            <td>Price</td>
+                            <td><p id="price"> </p></td>
+                        </tr>
+                        <tr>
+                            <td>Status :</td>
+                            <td><p id="status"> </p></td>
+                        </tr>
+                        <tr>
+                            <td>Title :</td>
+                            <td><p id="title"> </p></td>
+                        </tr>
+                        <tr>
+                            <td>Date :</td>
+                            <td><p id="date"> </p></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div id="cheque">
+                <table class="table">
+                    <tbody>
+                        <tr>
+                            <td>Banque</td>
+
+                            <td><p id="banque"> </p></td>
+                        </tr>
+                        <tr>
+                            <td>Num</td>
+
+                            <td><p id="chequeNum"> </p></td>
+                        </tr>
+                        <tr>
+                            <td>Price</td>
+                            <td><p id="chequePrice"> </p></td>
+                        </tr>
+                        <tr>
+                            <td>Image</td>
+                            <td>
+                                <img data-toggle="modal" data-target="#exampleModal" id="chequeImg"
+                                     style="width: 200px;"
+                                     src="" />
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div class="modal fade" id="exampleModal" tabindex="-1"
+                     role="dialog" aria-labelledby="exampleModalLabel"
+                     aria-hidden="true">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLabel">
+                                    Cheque
+                                    Image
+                                </h5>
+                                <button type="button" class="close" data-dismiss="modal"
+                                        aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                                <img src="" id="chequeImagePopUp"
+                                     style="width: 550px;" /> <br />
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary"
+                                        data-dismiss="modal">
+                                    Close
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div id="virement">
+                <table class="table">
+                    <tbody>
+                        <tr>
+                            <td>Agence</td>
+                            <td>
+                                <p id="virementAgence"></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Banque</td>
+                            <td>
+                                <p id="virementBanque"></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Code Virement</td>
+                            <td>
+                                <p id="virementCode"></p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+
+            </div>
+
+            <div id="showSubmit">
+                <form>
+                    <button>
+
+                        <a href="#" id="btnChange">
+                            Valider
+                        </a>
+                    </button>
+
+                    <button>
+
+                        <a href="#" id="btnAnnuler">
+                            Annuler
+                        </a>
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+    <script>
+        var id =0;
+        //var codePanel = $("#panelSelected").val();
+        //document.getElementById("paiment").style.visibility = 'hidden';  .style.display = "block";
+        document.getElementById("paiment").style.display = 'none';
+        document.getElementById("showSubmit").style.display = 'none';
+        document.getElementById("cheque").style.display = 'none';
+        document.getElementById("virement").style.display = 'none';
+
+        function changeEtat(){
+            window.location.replace = "http://localhost:2522/paiment/Edit/"+id;
+        }
+        function showDetail(idPaiment,datePaiment){
+            id = idPaiment;
+            document.getElementById("cheque").style.display = 'none';
+            document.getElementById("virement").style.display = 'none';
+            $.ajax({
+                url: '@Url.Action("getPaimentById", "paiment")?idPaiment=' + id ,
+                type: 'GET',
+                dataType: 'json',
+                cache: false,
+                data: {},
+                success: function (data) {
+                    console.log(data);
+                    document.getElementById("paiment").style.display = 'block';
+                    document.getElementById("showSubmit").style.display = 'block';
+                    document.getElementById("price").innerHTML = data.Price;
+                    document.getElementById("status").innerHTML = data.Status;
+                    document.getElementById("title").innerHTML = data.Title;
+                    document.getElementById("date").innerHTML = datePaiment;
+                    document.getElementById("btnChange").href="/paiment/valider/"+id;
+                    document.getElementById("btnAnnuler").href="/paiment/annuler/"+id;
+                    if(data.cheque != null){
+                        document.getElementById("cheque").style.display = 'block';
+                        document.getElementById("banque").innerHTML = data.cheque.bank;
+                        document.getElementById("chequeNum").innerHTML = data.cheque.Num;
+                        document.getElementById("chequePrice").innerHTML = data.cheque.Price;
+                        document.getElementById("chequeImg").src = data.cheque.image;//chequeImagePopUp
+                        document.getElementById("chequeImagePopUp").src = data.cheque.image;
+                    }
+                    else if(data.virement != null){
+                        document.getElementById("virement").style.display = 'block';
+                        document.getElementById("virementAgence").innerHTML = data.virement.agence;
+                        document.getElementById("virementBanque").innerHTML = data.virement.bank;
+                        document.getElementById("virementCode").innerHTML = data.virement.codeVirement;
+                    }
+                },
+                error: function () {
+                    alert("error");
+                }
+            });
+        }
+    </script>
+
+
+    <script>
+        var ctx = document.getElementById("myChart");
+        var a = @ViewBag.nbNo;
+        var b = @ViewBag.nbOk;
+        var myChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: ["non Payé", "Payé"],
+                datasets: [{
+                    label: '',
+                    data: [a, b],
+                    backgroundColor: [
+                        'rgba(255, 99, 132, 0.2)',
+                        'rgba(54, 162, 235, 0.2)'
+                    ],
+                    borderColor: [
+                        'rgba(255,99,132,1)',
+                        'rgba(54, 162, 235, 1)'
+                    ],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                            beginAtZero:true
+                        }
+                    }]
+                }
+            }
+        });
+    </script>
+
+
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+
+</body>
+</html>

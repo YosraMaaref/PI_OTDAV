@@ -1,0 +1,109 @@
+﻿@model IEnumerable<PI_OTDAV_Domain.Entities.artworkcategory>
+
+@{
+    ViewBag.Title = "Index";
+}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="~/Scripts/Chart/exporting.js"></script>
+<script src="~/Scripts/Chart/highcharts.js"></script>
+<h2>Categorie des oeuvres</h2>
+
+<p>
+<p>
+    <center> @Html.ActionLink("Create New", "Create",new {@class = "btn btn-success btn-pill m-1" })</center>
+</p>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.nom)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.type)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.details)
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+        @foreach (var item in ViewBag.result)
+        {
+            <tr>
+                <td>
+                    @item.nom
+                </td>
+                <td>
+                    @item.type
+                </td>
+                <td>
+                    @item.details
+                </td>
+
+                <td>@Html.ActionLink("Edit", "Edit", new { id = item.id }, new { @class = "btn btn-info btn-pill m-1" })
+          
+</td>
+            </tr>
+        }
+</table>
+<div id="container" style="min-width: 310px; height: 400px; max-width: 600px; margin: 0 auto"></div>
+<script>
+
+    $(document).ready(function () {
+        $.getJSON("/ArtworkCategories/GetDataArtworkCategory/", function (result) {
+            Highcharts.chart('container', {
+                chart: {
+                    plotBackgroundColor: null,
+                    plotBorderWidth: null,
+                    plotShadow: false,
+                    type: 'pie'
+                },
+                title: {
+                    text: 'Statistics des activités des catégories doeuvres'
+                },
+                tooltip: {
+                    pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+                },
+                plotOptions: {
+                    pie: {
+                        allowPointSelect: true,
+                        cursor: 'pointer',
+                        dataLabels: {
+                            enabled: true,
+                            format: '<b>{point.name}</b>: {point.percentage:.1f} %',
+                            style: {
+                                color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
+                            }
+                        }
+                    }
+                },
+                series: [{
+                    name: 'Brands',
+                    colorByPoint: true,
+                    data: [{
+                        name: 'Status totals',
+                        y: result.SommeStatus,
+                        sliced: true,
+                        selected: true
+                    }, {
+                        name: 'Status actif',
+                        y: result.actif
+                    }, {
+                        name: 'Status nonActif',
+                        y: result.nonActif
+                    }, {
+                        name: 'Statut moyenne actif',
+                        y: result.moyenneAcif
+                    }, {
+                        name: 'Statut moyenne nonActif',
+                        y: result.moyenneNonAcif
+                    
+                    }]
+                }]
+            });
+        });
+    });
+
+
+</script>

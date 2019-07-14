@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PI_OTDAV_Web", "PI_OTDAV_Web\PI_OTDAV_Web.csproj", "{AEE52228-EAC5-4552-B3B4-1E2FF49D06D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PI_OTDAV_Domain", "PI_OTDAV_Domain\PI_OTDAV_Domain.csproj", "{840E823C-EBE5-47B9-90BE-668E90F5FC19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PI_OTDAV_Services", "PI_OTDAV_Services\PI_OTDAV_Services.csproj", "{B7CE328B-F972-48D9-9A52-9F747E997CE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PI_OTDAV_ServicePattern", "PI_OTDAV_ServicePattern\PI_OTDAV_ServicePattern.csproj", "{F7149B79-8F07-4B94-B4E0-E6C089D16CCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEE52228-EAC5-4552-B3B4-1E2FF49D06D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE52228-EAC5-4552-B3B4-1E2FF49D06D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE52228-EAC5-4552-B3B4-1E2FF49D06D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE52228-EAC5-4552-B3B4-1E2FF49D06D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{840E823C-EBE5-47B9-90BE-668E90F5FC19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{840E823C-EBE5-47B9-90BE-668E90F5FC19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{840E823C-EBE5-47B9-90BE-668E90F5FC19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{840E823C-EBE5-47B9-90BE-668E90F5FC19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7CE328B-F972-48D9-9A52-9F747E997CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7CE328B-F972-48D9-9A52-9F747E997CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7CE328B-F972-48D9-9A52-9F747E997CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7CE328B-F972-48D9-9A52-9F747E997CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7149B79-8F07-4B94-B4E0-E6C089D16CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7149B79-8F07-4B94-B4E0-E6C089D16CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7149B79-8F07-4B94-B4E0-E6C089D16CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7149B79-8F07-4B94-B4E0-E6C089D16CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02D3A493-C41E-4FAE-B9FD-69DFC58F1C5E}
+	EndGlobalSection
+EndGlobal

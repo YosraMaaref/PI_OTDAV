@@ -1,0 +1,76 @@
+﻿@model PI_OTDAV_Web.Models.QuestionVM
+
+<div>
+    <h4>QuestionVM</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.questionId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.questionId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.question)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.question)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.prop1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.prop1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.prop2)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.prop2)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.prop3)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.prop3)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.prop4)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.prop4)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.response)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.response)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.description)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { Model.questionId, Model }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

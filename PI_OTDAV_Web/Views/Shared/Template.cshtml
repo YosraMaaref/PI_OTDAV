@@ -1,0 +1,323 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from pepdev.com/template/apez/web/index-8.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 25 Nov 2018 10:21:09 GMT -->
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Site Title -->
+    <title>OTDAV|ESPRIT-4GL5</title>
+    <!-- Meta Description Tag -->
+    <meta name="Description" content="APEZ - Responsive Multi-Purpose HTML5 Template">
+    <!-- Favicon Icon -->
+    <link rel="icon" type="image/x-icon" href="~/Content/images/favicon.png" />
+    <!-- Material Design Lite Stylesheet CSS -->
+    <link rel="stylesheet" href="~/Content/assets/plugin/material/material.min.css" />
+    <!-- Material Design Select Field Stylesheet CSS -->
+    <link rel="stylesheet" href="~/Content/assets/plugin/material/mdl-selectfield.min.css">
+    <!-- Animteheading Stylesheet CSS -->
+    <link rel="stylesheet" href="~/Content/assets/plugin/animateheading/animateheading.min.css" />
+    <!-- Owl Carousel Stylesheet CSS -->
+    <link rel="stylesheet" href="~/Content/assets/plugin/owl_carousel/owl.carousel.min.css" />
+    <!-- Animate Stylesheet CSS -->
+    <link rel="stylesheet" href="~/Content/assets/plugin/animate/animate.min.css" />
+    <!-- Magnific Popup Stylesheet CSS -->
+    <link rel="stylesheet" href="~/Content/assets/plugin/magnific_popup/magnific-popup.min.css" />
+    <!-- Flex Slider Stylesheet CSS -->
+    <link rel="stylesheet" href="~/Content/assets/plugin/flexslider/flexslider.min.css" />
+    <!-- Custom Main Stylesheet CSS -->
+    <link rel="stylesheet" href="~/Content/dist/css/style.css">
+    <link href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+</head>
+<body>
+    <!-- Start Header Section -->
+    <header class="header header-2">
+        <div class="hdr-topbar">
+            <div class="layer-stretch">
+                <div class="row pt-3 pb-3 align-items-center">
+                    <div class="col-md-5">
+                        <img alt="Logo OTDAV" src="~/Mail/logo.png" width="180" height="80" />
+                    </div>
+                    <div class="col-md-7 hdr-link text-right d-none d-sm-none d-md-block d-lg-block d-xl-block">
+                        <a class="m-1"><i class="icon-login mr-2"></i>@Html.ActionLink("Log in", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</a>
+                        <div class="separator"></div>
+                        <a class="m-1"><i class="icon-user-follow mr-2"></i>Register</a>
+                        <div class="separator"></div>
+                        <a class="m-1" id="my-account"><i class="icon-user-follow mr-2"></i>@HttpContext.Current.Session["userName"]</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="layer-stretch hdr">
+            <div class="tbl">
+                <div class="tbl-row">
+                    <!-- Start Header Logo Section -->
+
+                    <div class="tbl-cell hdr-menu">
+                        <!-- Start Menu Section -->
+                        <ul class="menu">
+
+                            <li class="menu-megamenu-li">
+                                <a id="menu-pages" class="mdl-button mdl-js-button mdl-js-ripple-effect">Gestion perceptions/repartitions <i class="fa fa-chevron-down"></i></a>
+                                <ul class="menu-megamenu">
+                                    <li class="row">
+                                        <div class="col-lg-2">
+                                            <ul>
+                                                <li><a href="/Perception/DisplayPerception">Consulter les perceptions</a></li>
+                                                <li><a href="/Repartition/DisplayRepartition">Consulter les repartitions</a></li>
+                                                <li><a href="/PerceptionCategory/Display">Consulter les categories</a></li>
+                                                <li><a href="/Espace/DisplayEspace">Consulter les espaces</a></li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </li>
+                            
+                            <li class="menu-megamenu-li">
+                                <a id="menu-pages" class="mdl-button mdl-js-button mdl-js-ripple-effect">Gestion des paiements <i class="fa fa-chevron-down"></i></a>
+                                <ul class="menu-megamenu">
+                                    <li class="row">
+                                        <div class="col-lg-2">
+                                            <ul>
+                                                <li><a href="/paiment/Index">La liste des paiements</a></li>
+                                                <li><a href="/paimentClient/Index">Ma liste</a></li>
+                                                <li><a href="/paimentClient/Create">Ajouter paiement</a></li>
+                                            </ul>
+                                        </div>  
+                                    </li>
+                                </ul>
+                            </li>
+
+                            <li class="menu-megamenu-li">
+                                <a class="mdl-button mdl-js-button mdl-js-ripple-effect">Gestion des catégories <i class="fa fa-chevron-down"></i></a>
+                                <ul class="menu-megamenu menu-megamenu-medium">
+                                    <li class="row">
+                                        <div class="col-lg-3">
+                                            <ul>
+                                                <li><a href="/ArtworkCategories/Index">Les catégories des oeuvres</a></li>
+                                                <li><a href="/membershipcategories/Index">Les catégories des membres</a></li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="menu-megamenu-li">
+                                <a class="mdl-button mdl-js-button mdl-js-ripple-effect">Gestion des oeuvres*<i class="fa fa-chevron-down"></i></a>
+                                <ul class="menu-megamenu menu-megamenu-small">
+                                    <li class="row">
+                                        <div class="col-lg-4">
+                                            <ul>
+                                                <li><a href="/Category/Create">Ajouter</a></li>
+                                                <li><a href="/OeuvreDeclaration/DispalyEnAttenteArtWorkByUser">Oeuvres en attente</a></li>
+                                                <li><a href="/OeuvreDeclaration/DispalyAccepterArtWorkByUser">Oeuvres acceptées</a></li>
+                                                <li><a href="/OeuvreDeclaration/AjouterOuvre">Ajouter oeuvre</a></li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="menu-megamenu-li">
+                                <a class="mdl-button mdl-js-button mdl-js-ripple-effect" href="/Reclamation/Display?idUser= @HttpContext.Current.Session["id"]">Gestion des réclamations</a>
+                            </li>
+
+                            <li>
+                                <a class="mdl-button mdl-js-button mdl-js-ripple-effect hdr-search" href="/Notification/DisplayNonLu?idDestination= @HttpContext.Current.Session["id"]"><i class="fa fa-bell"></i><span class="cart-count">@HttpContext.Current.Session["nbNotif"]<span></a>
+                            </li>
+                            <li class="mobile-menu-close"><i class="fa fa-times"></i></li>
+
+                        </ul><!-- End Menu Section -->
+                        <div id="menu-bar"><a><i class="fa fa-bars"></i></a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="search-bar animated zoomIn">
+                <div class="search-content">
+                    <div class="search-input">
+                        <input type="text" placeholder="Enter your text ....">
+                        <button class="search-btn"><i class="icon-magnifier"></i></button>
+                    </div>
+                </div>
+                <div class="search-close"><i class="icon-close"></i></div>
+            </div>
+        </div>
+    </header><!-- End Header Section -->
+    <!-- Start Slider Section -->
+
+    <div style="width: 884px;height: 150px;">
+
+    </div>
+    <div>
+        @RenderBody()
+    </div>
+
+
+
+    <footer id="footer">
+        <div class="layer-stretch">
+            <!-- Start main Footer Section -->
+            <div class="row layer-wrapper">
+                <div class="col-md-4 footer-block">
+                    <div class="footer-ttl"><p>A PROPOS</p></div>
+                    <div class="footer-container footer-a">
+                        <div class="tbl">
+                            <div class="tbl-row">
+                                <div class="tbl-cell"><i class="fa fa-map-marker"></i></div>
+                                <div class="tbl-cell">
+                                    <p class="paragraph-medium paragraph-white">
+
+                                        OTDAV <br />
+                                        Organisme Tunisien des Droits d’Auteur et des Droits Voisins<br />
+                                        7Avenue Mohamed Melki, 1005 El Omrane Tunis Tunisie
+
+
+
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="tbl-row">
+                                <div class="tbl-cell"><i class="fa fa-phone"></i></div>
+                                <div class="tbl-cell">
+                                    <p class="paragraph-medium paragraph-white">
+                                        Tél: + 216 71 957 115 / + 216 71 957 102 <br />  +216 957 109 /+216 957 097
+                                        <br />  Fax: + 216 71 957 083
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="tbl-row">
+                                <div class="tbl-cell"><i class="fa fa-envelope"></i></div>
+                                <div class="tbl-cell">
+                                    <p class="paragraph-medium paragraph-white"> Email: otpda@planet.tn / otdav@otdav.tn</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 footer-block">
+                    <div class="footer-ttl"><p>Quick Links</p></div>
+                    <div class="footer-container footer-b">
+                        <div class="tbl">
+                            <div class="tbl-row">
+                                <ul class="tbl-cell">
+                                    <li><a href="index.html">Home</a></li>
+                                    <li><a href="about-1.html">About</a></li>
+                                    <li><a href="event-1.html">Event</a></li>
+                                    <li><a href="contact-1.html">Contact</a></li>
+                                    <li><a href="portfolio-1.html">Portfolio</a></li>
+                                    <li><a href="#">Link</a></li>
+                                </ul>
+                                <ul class="tbl-cell">
+                                    <li><a href="signin.html">Sign In</a></li>
+                                    <li><a href="signup.html">Sign Up</a></li>
+                                    <li><a href="services-1.html">Services</a></li>
+                                    <li><a href="Blogs-12.html">Blogs</a></li>
+                                    <li><a href="Blog-3.html">Blog</a></li>
+                                    <li><a href="team-1.html">Team</a></li>
+                                    <li><a href="faq.html">Faq</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 footer-block">
+                    <div class="footer-ttl"><p>Newsletter</p></div>
+                    <div class="footer-container footer-c">
+                        <div class="footer-subscribe">
+
+
+                        </div>
+                        <ul class="social-list social-list-colored footer-social">
+                            <li>
+                                <a href="#" target="_blank" id="footer-facebook" class="fab fa-facebook"></a>
+                                <span class="mdl-tooltip mdl-tooltip--top" data-mdl-for="footer-facebook">Facebook</span>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank" id="footer-twitter" class="fab fa-twitter"></a>
+                                <span class="mdl-tooltip mdl-tooltip--top" data-mdl-for="footer-twitter">Twitter</span>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank" id="footer-google" class="fab fa-google"></a>
+                                <span class="mdl-tooltip mdl-tooltip--top" data-mdl-for="footer-google">Google</span>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank" id="footer-instagram" class="fab fa-instagram"></a>
+                                <span class="mdl-tooltip mdl-tooltip--top" data-mdl-for="footer-instagram">Instagram</span>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank" id="footer-youtube" class="fab fa-youtube"></a>
+                                <span class="mdl-tooltip mdl-tooltip--top" data-mdl-for="footer-youtube">Youtube</span>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank" id="footer-linkedin" class="fab fa-linkedin"></a>
+                                <span class="mdl-tooltip mdl-tooltip--top" data-mdl-for="footer-linkedin">Linkedin</span>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank" id="footer-flickr" class="fab fa-flickr"></a>
+                                <span class="mdl-tooltip mdl-tooltip--top" data-mdl-for="footer-flickr">Flickr</span>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank" id="footer-rss" class="fab fa-rss"></a>
+                                <span class="mdl-tooltip mdl-tooltip--top" data-mdl-for="footer-rss">Rss</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div><!-- End main Footer Section -->
+        <!-- Start Copyright Section -->
+        <div id="copyright">
+            <div class="layer-stretch">
+                <div class="paragraph-medium paragraph-white">2018 © 4GL5B ALL RIGHTS RESERVED.</div>
+            </div>
+        </div><!-- End of Copyright Section -->
+    </footer><!-- End of Footer Section -->
+    <!-- End of Footer Section -->
+    <!-- **********Included Scripts*********** -->
+    <!-- Jquery Library 2.1 JavaScript-->
+    <!-- Popper JavaScript-->
+    <script src="~/Content/assets/plugin/popper/popper.min.js"></script>
+    <!-- Bootstrap Core JavaScript-->
+    <script src="~/Content/assets/plugin/bootstrap/bootstrap.min.js"></script>
+    <!-- Modernizr Core JavaScript-->
+    <script src="~/Content/assets/plugin/modernizr/modernizr.js"></script>
+    <!-- Animaateheading JavaScript-->
+    <script src="~/Content/assets/plugin/animateheading/animateheading.js"></script>
+    <!-- Material Design Lite JavaScript-->
+    <script src="~/Content/assets/plugin/material/material.min.js"></script>
+    <!-- Material Select Field Script -->
+    <script src="~/Content/assets/plugin/material/mdl-selectfield.min.js"></script>
+    <!-- Flexslider Plugin JavaScript-->
+    <script src="~/Content/assets/plugin/flexslider/jquery.flexslider.min.js"></script>
+    <!-- Owl Carousel Plugin JavaScript-->
+    <script src="~/Content/assets/plugin/owl_carousel/owl.carousel.min.js"></script>
+    <!-- Scrolltofixed Plugin JavaScript-->
+    <script src="~/Content/assets/plugin/scrolltofixed/jquery-scrolltofixed.min.js"></script>
+    <!-- Magnific Popup Plugin JavaScript-->
+    <script src="~/Content/assets/plugin/magnific_popup/jquery.magnific-popup.min.js"></script>
+    <!-- WayPoint Plugin JavaScript-->
+    <script src="~/Content/assets/plugin/waypoints/jquery.waypoints.min.js"></script>
+    <!-- CounterUp Plugin JavaScript-->
+    <script src="~/Content/assets/plugin/counterup/jquery.counterup.js"></script>
+    <!-- masonry Plugin JavaScript-->
+    <script src="~/Content/assets/plugin/masonry_pkgd/masonry.pkgd.min.js"></script>
+    <!-- SmoothScroll Plugin JavaScript-->
+    <script src="~/Content/assets/plugin/smoothscroll/smoothscroll.min.js"></script>
+
+
+
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+    @RenderSection("styles", required: false)
+    <script src="~/Scripts/Highcharts-4.0.1/js/highcharts.js"></script>
+
+</body>
+
+<!-- Mirrored from pepdev.com/template/apez/web/index-8.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 25 Nov 2018 10:21:09 GMT -->
+</html>
+
+

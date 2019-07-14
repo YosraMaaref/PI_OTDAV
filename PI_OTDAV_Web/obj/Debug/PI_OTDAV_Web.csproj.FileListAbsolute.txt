@@ -1,0 +1,407 @@
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\obj\Debug\PI_OTDAV_Web.csprojResolveAssemblyReference.cache
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\ApplicationInsights.config
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\csc.exe
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\vbc.exe
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Web.dll.config
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Web.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Web.pdb
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Antlr3.Runtime.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\EntityFramework.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.Web.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\MySql.Data.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Newtonsoft.Json.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Owin.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Data.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Domain.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Services.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Helpers.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Mvc.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Optimization.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Razor.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.WebPages.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\WebGrease.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Data.pdb
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Domain.pdb
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Services.pdb
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\EntityFramework.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.Web.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Helpers.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Mvc.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Optimization.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Razor.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.WebPages.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Antlr3.Runtime.pdb
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Newtonsoft.Json.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\obj\Debug\PI_OTDAV_Web.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\obj\Debug\PI_OTDAV_Web.pdb
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_ServicePattern.dll
+C:\Users\Naifar Sirine\Documents\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_ServicePattern.pdb
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\ApplicationInsights.config
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\csc.exe
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\vbc.exe
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Web.dll.config
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Web.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Web.pdb
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Antlr3.Runtime.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\EntityFramework.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.Web.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\MySql.Data.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Newtonsoft.Json.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Owin.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Data.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Domain.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_ServicePattern.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Services.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Helpers.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Mvc.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Optimization.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Razor.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.WebPages.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\WebGrease.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Data.pdb
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Domain.pdb
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_ServicePattern.pdb
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Services.pdb
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\EntityFramework.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.Web.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Helpers.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Mvc.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Optimization.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Razor.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.WebPages.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Antlr3.Runtime.pdb
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Newtonsoft.Json.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\obj\Debug\PI_OTDAV_Web.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\obj\Debug\PI_OTDAV_Web.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\obj\Debug\PI_OTDAV_Web.pdb
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\itextsharp.dll
+C:\Users\Windows\Documents\GitHub\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\itextsharp.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\ApplicationInsights.config
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\csc.exe
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\vbc.exe
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Web.dll.config
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Web.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Web.pdb
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Antlr3.Runtime.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\EntityFramework.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\itextsharp.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.Web.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\MySql.Data.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\MySql.Data.Entity.EF6.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Newtonsoft.Json.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Owin.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Data.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Domain.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_ServicePattern.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Services.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.Extensions.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.Formatting.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.Primitives.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Helpers.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Mvc.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Optimization.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Razor.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.WebPages.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\WebGrease.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Data.pdb
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Domain.pdb
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_ServicePattern.pdb
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Services.pdb
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\EntityFramework.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\itextsharp.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.Web.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Helpers.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Mvc.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Optimization.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Razor.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.WebPages.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Antlr3.Runtime.pdb
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Newtonsoft.Json.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\obj\Debug\PI_OTDAV_Web.csprojResolveAssemblyReference.cache
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\obj\Debug\PI_OTDAV_Web.dll
+C:\Users\koussai\Source\Repos\PI-OTDAV-4GL5\PI_OTDAV_DOTNET\PI_OTDAV_Web\obj\Debug\PI_OTDAV_Web.pdb
+C:\Users\hayfaAdmin\Desktop\PI-OTDAV-4GL5-master\PI_OTDAV_DOTNET\PI_OTDAV_Web\obj\Debug\PI_OTDAV_Web.csprojAssemblyReference.cache
+C:\Users\hayfaAdmin\Desktop\PI-OTDAV-4GL5-master\PI_OTDAV_DOTNET\PI_OTDAV_Web\obj\Debug\PI_OTDAV_Web.csproj.CoreCompileInputs.cache
+C:\Users\hayfaAdmin\Desktop\PI-OTDAV-4GL5-master\PI_OTDAV_DOTNET\PI_OTDAV_Web\obj\Debug\PI_OTDAV_Web.dll
+C:\Users\hayfaAdmin\Desktop\PI-OTDAV-4GL5-master\PI_OTDAV_DOTNET\PI_OTDAV_Web\obj\Debug\PI_OTDAV_Web.pdb
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\ApplicationInsights.config
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\csc.exe
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\vbc.exe
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Web.dll.config
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Web.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Web.pdb
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Antlr3.Runtime.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\EntityFramework.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\itextsharp.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.Web.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\MySql.Data.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Newtonsoft.Json.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Owin.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Helpers.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Mvc.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Optimization.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Razor.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.WebPages.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\WebGrease.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\EntityFramework.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\itextsharp.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.Web.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Helpers.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Mvc.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Optimization.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.Razor.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.WebPages.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Antlr3.Runtime.pdb
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Newtonsoft.Json.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\obj\Debug\PI_OTDAV_Web.csprojResolveAssemblyReference.cache
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\obj\Debug\PI_OTDAV_Web.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\obj\Debug\PI_OTDAV_Web.pdb
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Service.Pattern.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\Service.Pattern.pdb
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\DotNet.Highcharts.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Domain.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Services.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_ServicePattern.dll
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Domain.pdb
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_Services.pdb
+C:\Users\Yora\Desktop\PI_OTDAV_DOTNET\PI_OTDAV_Web\bin\PI_OTDAV_ServicePattern.pdb

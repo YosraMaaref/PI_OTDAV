@@ -1,0 +1,62 @@
+﻿@model IEnumerable<PI_OTDAV_Web.Models.EspaceModel>
+<br /><br /><br />
+<div class="layer-ttl"><h4>La Liste<span class="text-primary"> Des </span>Espaces</h4></div>
+
+
+
+
+<p>
+    <h3> Module<span class="text-primary"> Perceptions </span> Espaces</h3>
+</p>
+
+
+<div class="panel">
+
+
+
+    <table class="table table-striped">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.idEspace)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NomEspace)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.adresse)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.details)
+            </th>
+
+            <th></th>
+        </tr>
+
+        @foreach (var item in ViewBag.result)
+        {
+            <tr>
+                <td>
+                    @item.idEspace
+                </td>
+                <td>
+                    @item.NomEspace
+                </td>
+                <td>
+                    @item.adresse
+                </td>
+                <td>
+                    @item.details
+                </td>
+
+
+            </tr>
+        }
+
+    </table>
+
+
+
+
+
+   
+</div>

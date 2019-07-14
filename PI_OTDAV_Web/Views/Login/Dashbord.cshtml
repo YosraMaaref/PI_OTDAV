@@ -1,0 +1,45 @@
+﻿
+@{
+    Layout = "~/Views/Shared/Template.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Dashbord</title>
+</head>
+<body>
+    <br /><br />
+    <div class="col-12">
+        <div class="panel panel-default">
+            <div class="panel-head">
+                <div class="layer-ttl"><h4>Bienvenue Mr/Mme <span class="text-primary">@HttpContext.Current.Session["nom"]&nbsp;@HttpContext.Current.Session["prenom"] </span></h4></div>
+            </div>
+            
+            <div class="panel-wrapper">
+                <div class="panel-body">
+                    <div class="row p-3">
+                        <div class="col-sm-3 theme-accordian-img text-center">
+                            <img class="img-responsive img-thumbnail" src="~/Mail/logo.png" alt="Logo OTDAV">
+                        </div>
+                        <div class="col-sm-9">
+                            <p class="paragraph-small paragraph-black">
+                                <span class="theme-dropcap color-green">L'</span>
+                                Organisme tunisien des droits d'auteur et des droits voisins (arabe : المؤسسة التونسية لحقوق المؤلف والحقوق المجاورة) ou OTDAV, précédemment appelé Organisme tunisien de protection des droits d'auteurs, est un établissement public tunisien à caractère non administratif destiné à la gestion collective du droit d'auteur.<br />
+                                L'ancien organisme est créé en vertu de la loi n°94-36 du 24 février 1994 et débute ses activités en 19971. L'organisme qui lui succède est créé en vertu du décret n°2860-2013 du 1er juillet 20132.
+                            </p>
+
+                        </div>
+                    </div><br />
+                        <center>
+                            <div>
+                                <video width="700" controls>
+                                    <source src="~/Mail/otdav.mp4" type="video/mp4">
+                                </video>
+                            </div>
+                        </center>
+                    </div></div></div></div>
+</body>
+</html>

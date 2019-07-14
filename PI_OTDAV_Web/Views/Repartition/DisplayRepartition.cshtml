@@ -1,0 +1,81 @@
+﻿@model IEnumerable<PI_OTDAV_Domain.Entities.repartition>
+
+
+<br /><br /><br />
+<div class="layer-ttl"><h4>La Liste <span class="text-primary">Des Repartitions  </span> Calculée </h4></div>
+
+
+<p>
+    <button class="btn btn-danger btn-pill m-1"> <i class="fas fa-cloud-upload-alt mr-2"></i><span> @Html.ActionLink("Export Excel", "ExportToExcel") </span></button>
+   
+    <button class="btn btn-primary btn-pill m-1">
+        <i class="fas fa-cloud-upload-alt mr-2"></i><span>@Html.ActionLink("Create Pdf", "CreatePdf", "Repartition")</span>
+    </button>
+    <h3> Liste<span class="text-primary"> Des </span> Repartitions</h3>
+    <center><b>Nombre des repartitions: </b><span class="badge badge-info badge-sm"><b>@ViewBag.count1</b></span></center>
+
+</p>
+
+<div class="panel">
+
+    <table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+
+
+
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.idRepartition)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.benificeOTDAV)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.benificeUser)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.impot)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.netPercue)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.perception_idPerception)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @item.idRepartition
+                    </td>
+                    <td>
+                       @item.benificeOTDAV
+                    </td>
+                    <td>
+                        @item.benificeUser
+                    </td>
+                    <td>
+                        @item.impot
+                    </td>
+                    <td>
+                        @item.netPercue
+                    </td>
+                    <td>
+                        @item.perception_idPerception
+                    </td>
+                  
+                </tr>
+            }
+
+    </table>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#example').DataTable();
+        });
+    </script>
+</div>

@@ -1,0 +1,81 @@
+﻿@model IEnumerable<PI_OTDAV_Web.Models.PerceptionModel>
+<br /><br /><br />
+<div class="layer-ttl"><h4>La Liste <span class="text-primary">Des Perceptions  </span> Calculer </h4></div>
+
+
+<p>
+
+
+    <button class="btn btn-primary btn-pill m-1">
+        <i class="fas fa-cloud-upload-alt mr-2"></i><span>@Html.ActionLink("Create Pdf", "CreatePdf", "Perception")</span>
+    </button>
+    <h3> Liste<span class="text-primary"> Des </span> Perceptions</h3>
+   
+</p>
+
+<div class="panel">
+
+    <table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+
+                <th>
+                    @Html.DisplayNameFor(model => model.idPerception)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Statuts)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.montant)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.montantotale)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.OeuvreD_id)
+                </th>
+
+                <th>
+
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var item in ViewBag.result)
+            {
+                <tr>
+                    <td>
+                        @item.idPerception
+                    </td>
+                    <td>
+                        @item.Statuts
+                    </td>
+                    <td>
+                        @item.montant
+                    </td>
+                    <td>
+                        @item.montantotale
+                    </td>
+                    <td>
+                        @item.oeuvreD.titre
+                    </td>
+
+                    <td>
+                        <button class="btn btn-danger btn-pill m-1">  <a href="/Repartition/Index?idPerception=@item.idPerception">Calculer répartition</a></button>
+                       
+                    </td>
+
+                </tr>
+
+            }
+
+        </tbody>
+    </table>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#example').DataTable();
+        });
+    </script>
+</div>
